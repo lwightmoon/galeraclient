@@ -1,5 +1,4 @@
-# galeraclient
-go client for galera cluster
+# go client for galera cluster
 
 # usage
 ```
